@@ -1,5 +1,8 @@
 # React-shop-cloudfront
 
+**CloudFront URL**: [https://d2vuu8qjn3py86.cloudfront.net/](https://d2vuu8qjn3py86.cloudfront.net/)
+**S3-website** (will be 403 error and it's ok): [http://my-first1-store-app.s3-website-eu-west-1.amazonaws.com/](http://my-first1-store-app.s3-website-eu-west-1.amazonaws.com/)
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
